@@ -5,6 +5,8 @@ Try this command:
     git log  --stat       
 It gives the files that are changed with the commit command.
    
+## 2. •	How do you see the contents of what changed within each file from the git log?
+
 Try this command:
     git log   --patch      
 It gives not only the files committed but also the details of what was changed.    
